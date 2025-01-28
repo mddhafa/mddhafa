@@ -23,9 +23,9 @@ I am passionate about technology, software development, and creating solutions t
 
 ### 🤝 Let's Connect!
 Feel free to reach out to collaborate or just say hi:
-- **Email**: [youremail@example.com](muhdhafa05@gmail.com)
-- **GitHub**: [github.com/yourusername](https://github.com/mddhafa)
-- **Instagram**:[instagram.com/yourusername](https://www.instagram.com/dhafaa19/)
+- **Email**: [muhdhafa05@gmail.com](muhdhafa05@gmail.com)
+- **GitHub**: [github.com/mddhafa](https://github.com/mddhafa)
+- **Instagram**:[instagram.com/dhafaa19](https://www.instagram.com/dhafaa19/)
 
 ---
 
