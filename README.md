@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About Me
 I am Muhammad Dhafa, a fresh graduate in Information Technology from Universitas Muhammadiyah Yogyakarta. I have a strong interest in software development, particularly in backend systems and intelligent applications.
-
 During my studies, I actively worked on several projects involving REST API development, mobile applications, and AI-based systems, which strengthened both my technical and problem-solving skills. I am highly motivated to start my professional career and contribute to real-world projects.
 ---
 
