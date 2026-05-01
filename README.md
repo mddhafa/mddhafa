@@ -1,22 +1,23 @@
 # Hi, I'm Muhammad Dhafa 👋
 
 ### 👨‍💻 About Me
-My name is **Muhammad Dhafa**, born in **January 2005**, and currently pursuing a degree in **Information Technology** at **Universitas Muhammadiyah Yogyakarta**.  
-I am passionate about technology, software development, and creating solutions that can make a difference.
+I am Muhammad Dhafa, a fresh graduate in Information Technology from Universitas Muhammadiyah Yogyakarta. I have a strong interest in software development, particularly in backend systems and intelligent applications.
 
+During my studies, I actively worked on several projects involving REST API development, mobile applications, and AI-based systems, which strengthened both my technical and problem-solving skills. I am highly motivated to start my professional career and contribute to real-world projects.
 ---
 
 ### 🔧 Interests
-- **Mobile Development**: Crafting intuitive and responsive Android applications using Jetpack Compose.  
-- **Web Development**: Building modern, user-friendly websites and web applications with HTML, CSS, and React.js.  
-- **Database Management**: Designing and managing scalable databases with MySQL and Firebase.  
-- **UI/UX Design**: Creating engaging and accessible user interfaces that enhance user experience.
+- **Mobile Engineering**: Building intuitive, responsive, and high-performance mobile applications with a strong focus on user experience
+- **Backend & Integration**: Supporting mobile applications with efficient data handling and seamless system integration
+- **AI Integration**: Exploring the use of intelligent features to enhance mobile applications and improve user experience
+
   
 ---
 
 ### 🤝 Let's Connect!
 Feel free to reach out to collaborate or just say hi:
 - **Email**: [muhdhafa05@gmail.com](muhdhafa05@gmail.com)
+- **Linkedin**: [https://www.linkedin.com/in/muhammad-dhafa-036a48299/]
 
 ---
 
